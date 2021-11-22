@@ -13,3 +13,14 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+
+.screen-header__wja {
+  background-color: tomato;
+  display: block;
+  position: relative;
+  border-radius: 2.5px;
+  width: 3px;
+  height: 5px;
+  left: 102px;
+  bottom: 22.5px;
+}
